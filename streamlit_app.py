@@ -36,7 +36,7 @@ def gemini_1(query):
     return model_response
 
 # Streamlit UI setup
-st.title("Welcome to gemini vanquisher")
+st.title("Welcome to Aushadi Veda")
 
 # Sidebar for additional information or settings
 with st.sidebar:
