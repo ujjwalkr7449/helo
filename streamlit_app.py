@@ -41,7 +41,7 @@ st.title("Welcome to Ayush bot")
 # Sidebar for additional information or settings
 with st.sidebar:
     st.header("Ayush bot", divider="rainbow")
-    st.write("Welcome to the Ayush bot Veda AI chat interface!")
+    st.write("Welcome to the Ayush bot AI chat interface!")
     st.write("Ask me anything, and I'll provide responses based on your queries.")
 
 # Initialize session state for storing conversation messages
