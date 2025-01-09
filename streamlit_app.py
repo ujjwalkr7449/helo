@@ -3,7 +3,7 @@ import streamlit as st
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 # API configuration
-genai.configure(api_key="AIzaSyCIWyobfLSvNRneC268_iGSlJXc0x4f1Ak")
+genai.configure(api_key="AIzaSyBfxU-lxxyQbnZe_Kj3i4D_hutVUlzgHUE")
 
 # Generation configuration
 generation_config = {
