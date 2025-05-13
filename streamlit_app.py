@@ -40,7 +40,7 @@ st.title("Welcome to Aushadi_veda_Chat_Bot")
 
 # Sidebar for additional information or settings
 with st.sidebar:
-    st.header("Ayush bot", divider="rainbow")
+    st.header("Aushadi_veda", divider="rainbow")
     st.write("Welcome to the Aushadi_veda_Chat_Bot AI chat interface!")
     st.write("Ask me anything, and I'll provide responses based on your queries.")
 
